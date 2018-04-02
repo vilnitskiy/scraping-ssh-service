@@ -1,5 +1,5 @@
 # scraping-ssh-service
-Cloud ssh layer that allows Jenkins to interact with spiders on cloud instances.
+SSH layer that allows Jenkins to interact with spiders on cloud instances.
 
 `python setup.py install`
 
